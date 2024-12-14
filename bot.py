@@ -1,9 +1,6 @@
-import logging
 from telegram.ext import Updater, CommandHandler, MessageHandler
 from pytube import YouTube
 from config import TOKEN
-
-logging.basicConfig(level=logging.INFO)
 
 
 def start(update, context):
