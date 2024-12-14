@@ -1,0 +1,6 @@
+telethon
+cryptg
+flask
+flask_restful
+gunicorn
+python-dotenv
